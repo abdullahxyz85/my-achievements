@@ -4,3 +4,5 @@
 - Solved multiple algorithmic challenges.
 
 🔗 **Results:** [View_Scoreboard](https://mitit.org/Contest/ViewScoreboard/beginner-2025)
+![MIT Winter Contest Screenshot](https://github.com/abdullahxyz85/my-achievements/blob/main/MIT-Winter-Contest.png)
+
