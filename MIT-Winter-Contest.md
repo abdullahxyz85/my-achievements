@@ -3,4 +3,4 @@
 - Team members: Abdullah Jameel, Ali Abbas, Zalaid Awwab.
 - Solved multiple algorithmic challenges.
 
-🔗 **Proof:** [View the official ranking](https://example.com/ranking)
+🔗 **Results:** [View_Scoreboard](https://mitit.org/Contest/ViewScoreboard/beginner-2025)
